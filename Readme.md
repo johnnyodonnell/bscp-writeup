@@ -67,7 +67,7 @@ on it.
 
 ### Comparison to OSWE
 
-The OSWE and BSCP test a very similar set of skills, and the OSWE
+The OSWE and BSCP require a very similar set of skills, and the OSWE
 is quite a bit harder than the BSCP. For the BSCP, you have an
 extremely powerful tool (Burp Suite Professional) at your disposal
 for finding vulnerabilities; whereas, for the OSWE, all vulnerabilites
